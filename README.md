@@ -15,7 +15,7 @@ Open `index.html`, or read the deck directly at `gerotech-process-playbook.html`
 
 | File | What it is |
 |---|---|
-| `gerotech-process-playbook.html` | The 22-slide deck — self-contained, no build step |
+| `gerotech-process-playbook.html` | The 21-slide deck — self-contained, no build step |
 | `speaker-notes.md` | Per-slide talking points, likely Q&A, and terms to avoid out loud |
 | `images/` | Screenshots and one-pagers used by the deck |
 
