@@ -28,7 +28,7 @@ Every visual is real: the wireframe and design file from Figma, the working prot
 3. **Wireframes** — built in code, presented in Figma; content edits take minutes
 4. **Design** — moodboards set direction, the homepage is agreed, then every page
 5. **Review & approve** — comments in Figma, mapped to the code with Cursor
-6. **Convert to WordPress** — native editor plus structured fields, no page builder
+6. **Convert to WordPress** — the build target is agreed at kickoff; the process is the same either way
 7. **Hand off to dev** — a designed, working front end ready for complex functionality
 
 ## How the two tools work together
@@ -41,6 +41,6 @@ Every visual is real: the wireframe and design file from Figma, the working prot
 
 **The loop:** client comments in Figma → we map each note to the code with Cursor → the change is made → the build is re-imported into Figma.
 
-## Licence position
+## Build target
 
-No page-builder licence. No commercial theme licence. One plugin licence (Advanced Custom Fields) replaces both.
+The build target is the **client's choice, agreed at kickoff** — structured fields by default, or a page builder if they prefer one. Nothing in the process depends on it: the design system stays the source of truth, the client owns plain-language editing fields either way, and the prototype remains the QA reference.
