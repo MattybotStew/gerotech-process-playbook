@@ -25,19 +25,21 @@ Every visual is real: the wireframe and design file from Figma, the working prot
 
 1. **Kickoff & discovery** — audit what exists; agree what success looks like
 2. **Sitemap** — structure and navigation, agreed while changing them is free
-3. **Wireframes** — content, hierarchy and section order
+3. **Wireframes** — built in code, presented in Figma; content edits take minutes
 4. **Design** — moodboards set direction, the homepage is agreed, then every page
-5. **Review & approve** — one feedback channel, tied to the exact spot
+5. **Review & approve** — comments in Figma, mapped to the code with Cursor
 6. **Convert to WordPress** — native editor plus structured fields, no page builder
 7. **Hand off to dev** — a designed, working front end ready for complex functionality
 
 ## How the two tools work together
 
-**Figma is the room.** Everything the client sees and discusses happens there — wireframes, moodboards, designs, comments.
+**Everything is built in code.** Wireframes, designs and the build itself — including responsive behaviour, layouts and animation concepts. Code is internal until the design phase, then it's what the client sees.
 
-**Code is the engine.** The prototype is internal until the design phase, then it's how we explore responsive behaviour, layouts and animation concepts quickly.
+**Figma is the room.** Everything the client sees and discusses happens there — wireframes, moodboards, designs, comments. **Code wireframes mean a content change is a five-minute edit, not hours of updating frames.**
 
-**The bridge:** [html.to.design](https://html.to.design/) imports the HTML prototype into Figma as editable artboards, so code-built work is reviewed in the room the client already uses.
+**The bridge:** [html.to.design](https://html.to.design/) imports the code into Figma as editable artboards, so code-built work is reviewed in the room the client already uses.
+
+**The loop:** client comments in Figma → we map each note to the code with Cursor → the change is made → the build is re-imported into Figma.
 
 ## Licence position
 
